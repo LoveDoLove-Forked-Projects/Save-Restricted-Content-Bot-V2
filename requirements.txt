@@ -9,7 +9,7 @@ pytz
 flask
 telethon
 aiojobs
-werkzeug==2.2.2
+werkzeug==3.0.6
 PyPDF2
 reportlab
 PyMuPDF
